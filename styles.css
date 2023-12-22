@@ -7,15 +7,12 @@ header {
 }
 
 body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode';
     background-color:#DBD77D ;
     margin: 0;
-    /* padding-bottom: 3em; */
-    /* min-height: 100vh; */
 }
 
-nav {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode';
-    display: flex;
+nav {display: flex;
     justify-content: center;
     align-items: center;
     background-color: #FBF7D5;
