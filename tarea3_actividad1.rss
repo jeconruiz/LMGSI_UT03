@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<!-- Generar un fichero rss que permita acceder a los siguientes contenidos rss:-->
-<!-- El tiempo meteorológico diario de tu ciudad a través de https://www.eltiempo.es/-->
-<!-- Una noticia que estará guardada en un documento HTML del mismo dominio al que 
-    pertenece la Web que oferta el canal, sobre un tema de tú elección.-->
-
 <rss version="2.0">
   <channel>
     <title>Actividad 1</title>
     <link>http://www.eltiempo.es</link>
     <description>Últimas actualizaciones sobre el clima en Villaconejos.</description>
-    <language>es</language>
+    <language>es-es</language>
     
     <item>
       <title>Previsión para hoy</title>
